@@ -1,2 +1,5 @@
-# Homework_CodeCamp6
-DEEN's homework for DataCamp#2 Projects.
+# DEEN's homework for CodeCamp#6 Projects.
+
+
+CodeCamp#6
+by [CodeCamp Thailand!](https://www.codecampthailand.com)
